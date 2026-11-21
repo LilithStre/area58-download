@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Area58
+Label: Area58 Neural AI
+Suite: stabile
+Codename: stabile
+Architectures: all amd64
+Date: Sat, 21 Nov 2026 09:58:36 +0000
+Description: Aggiornamenti di Area58 Neural AI
+MD5Sum:
+ b71ecef048d6357aeee968c78d2bdabb             3570 Packages
+ 6b67eff967dd54242b019187dc72ebf6             1219 Packages.gz
+SHA256:
+ 4fe4deeb522da6aebf1f0202b21f08e18e7df066132ce320f9a3cec566c9d29c             3570 Packages
+ c990422b780e6aaf5191b9cc171ef60143f73aa4dca97388878410d6ecaea02e             1219 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iIoEARYKADIWIQSiQPSNZnubaoIpGA/br0SHij+uSQUCawFr3RQccGFjY2hldHRp
+QGFyZWE1OC5pdAAKCRDbr0SHij+uSVtsAP9MKmrMuWvhnB70G9tUFx1MPyjGuQsj
+MSADqNOd0KAwBgD/UBjoHitK8hv438bQsPMKHn636nJUEMgD7DMMmcv+eQQ=
+=cY3m
+-----END PGP SIGNATURE-----
