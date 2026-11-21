@@ -18,6 +18,24 @@ Description: Area58 - desktop
  temi del dock e scelte di serie. Il programma area58-giorno-notte già
  aperto passa alla versione nuova al prossimo accesso.
 
+Package: area58-neural-ai
+Version: 2026.11.21
+Architecture: all
+Maintainer: Area58 Neural AI <https://github.com/LilithStre/area58-download>
+Installed-Size: 24
+Depends: area58-sfondi, area58-desktop
+Filename: pool/area58-neural-ai_2026.11.21_all.deb
+Size: 1008
+MD5sum: b57e6d59253667760df2ff5676422e44
+SHA1: 4debc88031fc41c87817faccb77264dfde432b71
+SHA256: 198fc1b00c6090d852700537d27f5d23315ee1ee8ab1f840c765ede71d286975
+Section: misc
+Priority: optional
+Description: Area58 Neural AI - tutte le parti di Area58
+ Installa e tiene aggiornate tutte le parti di Area58 Neural AI. Non
+ toglierlo: senza, i pezzi nuovi di Area58 non arrivano con gli
+ aggiornamenti.
+
 Package: area58-sfondi
 Version: 2026.11.18
 Architecture: all
