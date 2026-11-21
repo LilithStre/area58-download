@@ -3,11 +3,11 @@ Label: Area58 Neural AI
 Suite: stabile
 Codename: stabile
 Architectures: all amd64
-Date: Sat, 21 Nov 2026 08:34:13 +0000
+Date: Sat, 21 Nov 2026 09:21:23 +0000
 Description: Aggiornamenti di Area58 Neural AI
 MD5Sum:
- 9547e7e72219a1617f2729bd35a785c1             1250 Packages
- 40e14610bcfe4eaf1cbf2aee5d103304              566 Packages.gz
+ 9763bb238ccc9e7751778e59a4a87199             2077 Packages
+ 7f05d30687af36f7bbcf752bba1e7695              899 Packages.gz
 SHA256:
- fd96f5ada773492292dea71a182821eff91230577faee9de789ed18114a51d35             1250 Packages
- 607dfe547a310b180987221cfe1dd840c038471b0de7a542142fd9f40237cacb              566 Packages.gz
+ 262ea4c0118e7c76051e7bd89fb40100967857fc4221c7628960daf4295d668f             2077 Packages
+ ea7b48759f79b6e61f69a9e8b7e3cd519864840613d0933c5de137a92e55ad3a              899 Packages.gz
