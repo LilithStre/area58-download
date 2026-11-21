@@ -18,6 +18,26 @@ Description: Area58 - desktop
  temi del dock e scelte di serie. Il programma area58-giorno-notte già
  aperto passa alla versione nuova al prossimo accesso.
 
+Package: area58-desktop
+Version: 2026.11.21.1
+Architecture: all
+Maintainer: Area58 Neural AI <https://github.com/LilithStre/area58-download>
+Installed-Size: 524
+Depends: python3, python3-gi, zenity, dconf-cli
+Filename: pool/area58-desktop_2026.11.21.1_all.deb
+Size: 231480
+MD5sum: 2285fc4b172cf8f41db3ce0102c8f086
+SHA1: d32f1315827184a5ce9adc560d80a8775c72d50c
+SHA256: f803d28edec143dbc9e1e1235f8edd927c43b5fdcbcb7040101b7990547faa8e
+Section: misc
+Priority: optional
+Description: Area58 - desktop
+ Il desktop di Area58 Neural AI: tema chiaro di giorno e scuro di sera,
+ sfondo che segue ora, meteo e stagioni, meteo nella barra e sul
+ desktop, griglia Applicazioni, ventaglio delle AI, stemma del menu,
+ temi del dock e scelte di serie. Il programma area58-giorno-notte già
+ aperto passa alla versione nuova al prossimo accesso.
+
 Package: area58-neural-ai
 Version: 2026.11.21
 Architecture: all
