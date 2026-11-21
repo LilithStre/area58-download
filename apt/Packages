@@ -15,3 +15,20 @@ Description: Area58 - sfondi di serie
  meteo, l'orizzonte e l'acciaio di Area58. area58-giorno-notte sceglie
  da solo la variante giusta.
 
+Package: area58-sfondi
+Version: 2026.11.21
+Architecture: all
+Maintainer: Area58 Neural AI <https://github.com/LilithStre/area58-download>
+Installed-Size: 24644
+Filename: pool/area58-sfondi_2026.11.21_all.deb
+Size: 22711392
+MD5sum: 65cb19da967c2648f9c10bc63ebc4c71
+SHA1: 7419997ba2758b9eefca6f361e399115266bbd73
+SHA256: 667712e9a6649a5369557871e0b82ddb7afbf8507044c4b5728490c11c8c4d19
+Section: misc
+Priority: optional
+Description: Area58 - sfondi di serie
+ Castel Camponeschi (foto di Lilith) con le luci della giornata e il
+ meteo, l'orizzonte e l'acciaio di Area58. area58-giorno-notte sceglie
+ da solo la variante giusta.
+
